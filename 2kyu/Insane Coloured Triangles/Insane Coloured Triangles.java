@@ -1,3 +1,5 @@
+//Kata training from the school. Is not my solution!
+
 public class Kata {
   public static char triangle(final String row) {
     char[] arr = row.toCharArray();
